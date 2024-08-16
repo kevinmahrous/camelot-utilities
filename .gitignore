@@ -1,0 +1,5 @@
+# Ignore the src directory
+src/
+
+# Ignore Tailwind CSS configuration file
+tailwind.config.js
